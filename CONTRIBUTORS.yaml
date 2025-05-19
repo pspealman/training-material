@@ -2318,6 +2318,12 @@ prodromus:
     affiliations:
       - ncbi
 
+pspealman:
+    name: Pieter Spealman
+    orcid: 0000-0002-7105-284X
+    joined: 19 May 2025
+    bio: Broad Institute
+
 ptsefton:
     name: Peter Sefton
     orcid: 0000-0002-3545-944X
